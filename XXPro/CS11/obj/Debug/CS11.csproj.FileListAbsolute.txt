@@ -1,0 +1,9 @@
+D:\_dev\C_Sharp\XXPro\CS11\bin\Debug\CS11.exe.config
+D:\_dev\C_Sharp\XXPro\CS11\bin\Debug\CS11.exe
+D:\_dev\C_Sharp\XXPro\CS11\bin\Debug\CS11.pdb
+D:\_dev\C_Sharp\XXPro\CS11\obj\Debug\CS11.Form1.resources
+D:\_dev\C_Sharp\XXPro\CS11\obj\Debug\CS11.Properties.Resources.resources
+D:\_dev\C_Sharp\XXPro\CS11\obj\Debug\CS11.csproj.GenerateResource.cache
+D:\_dev\C_Sharp\XXPro\CS11\obj\Debug\CS11.csproj.CoreCompileInputs.cache
+D:\_dev\C_Sharp\XXPro\CS11\obj\Debug\CS11.exe
+D:\_dev\C_Sharp\XXPro\CS11\obj\Debug\CS11.pdb
