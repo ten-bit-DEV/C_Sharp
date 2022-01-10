@@ -1,0 +1,10 @@
+D:\_dev\C_Sharp\XXPro\CS18\bin\Debug\CS18.exe.config
+D:\_dev\C_Sharp\XXPro\CS18\bin\Debug\CS18.exe
+D:\_dev\C_Sharp\XXPro\CS18\bin\Debug\CS18.pdb
+D:\_dev\C_Sharp\XXPro\CS18\obj\Debug\CS18.csproj.AssemblyReference.cache
+D:\_dev\C_Sharp\XXPro\CS18\obj\Debug\CS18.Form1.resources
+D:\_dev\C_Sharp\XXPro\CS18\obj\Debug\CS18.Properties.Resources.resources
+D:\_dev\C_Sharp\XXPro\CS18\obj\Debug\CS18.csproj.GenerateResource.cache
+D:\_dev\C_Sharp\XXPro\CS18\obj\Debug\CS18.csproj.CoreCompileInputs.cache
+D:\_dev\C_Sharp\XXPro\CS18\obj\Debug\CS18.exe
+D:\_dev\C_Sharp\XXPro\CS18\obj\Debug\CS18.pdb

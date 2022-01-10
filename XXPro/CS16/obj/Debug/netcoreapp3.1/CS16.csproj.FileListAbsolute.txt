@@ -1,0 +1,15 @@
+D:\_dev\C_Sharp\XXPro\CS16\bin\Debug\netcoreapp3.1\CS16.exe
+D:\_dev\C_Sharp\XXPro\CS16\bin\Debug\netcoreapp3.1\CS16.deps.json
+D:\_dev\C_Sharp\XXPro\CS16\bin\Debug\netcoreapp3.1\CS16.runtimeconfig.json
+D:\_dev\C_Sharp\XXPro\CS16\bin\Debug\netcoreapp3.1\CS16.runtimeconfig.dev.json
+D:\_dev\C_Sharp\XXPro\CS16\bin\Debug\netcoreapp3.1\CS16.dll
+D:\_dev\C_Sharp\XXPro\CS16\bin\Debug\netcoreapp3.1\CS16.pdb
+D:\_dev\C_Sharp\XXPro\CS16\obj\Debug\netcoreapp3.1\CS16.Form1.resources
+D:\_dev\C_Sharp\XXPro\CS16\obj\Debug\netcoreapp3.1\CS16.csproj.GenerateResource.cache
+D:\_dev\C_Sharp\XXPro\CS16\obj\Debug\netcoreapp3.1\CS16.GeneratedMSBuildEditorConfig.editorconfig
+D:\_dev\C_Sharp\XXPro\CS16\obj\Debug\netcoreapp3.1\CS16.AssemblyInfoInputs.cache
+D:\_dev\C_Sharp\XXPro\CS16\obj\Debug\netcoreapp3.1\CS16.AssemblyInfo.cs
+D:\_dev\C_Sharp\XXPro\CS16\obj\Debug\netcoreapp3.1\CS16.csproj.CoreCompileInputs.cache
+D:\_dev\C_Sharp\XXPro\CS16\obj\Debug\netcoreapp3.1\CS16.dll
+D:\_dev\C_Sharp\XXPro\CS16\obj\Debug\netcoreapp3.1\CS16.pdb
+D:\_dev\C_Sharp\XXPro\CS16\obj\Debug\netcoreapp3.1\CS16.genruntimeconfig.cache
