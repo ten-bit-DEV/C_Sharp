@@ -1,0 +1,16 @@
+D:\_dev\C_Sharp\XXPro\CS20\bin\Debug\netcoreapp3.1\CS20.exe
+D:\_dev\C_Sharp\XXPro\CS20\bin\Debug\netcoreapp3.1\CS20.deps.json
+D:\_dev\C_Sharp\XXPro\CS20\bin\Debug\netcoreapp3.1\CS20.runtimeconfig.json
+D:\_dev\C_Sharp\XXPro\CS20\bin\Debug\netcoreapp3.1\CS20.runtimeconfig.dev.json
+D:\_dev\C_Sharp\XXPro\CS20\bin\Debug\netcoreapp3.1\CS20.dll
+D:\_dev\C_Sharp\XXPro\CS20\bin\Debug\netcoreapp3.1\CS20.pdb
+D:\_dev\C_Sharp\XXPro\CS20\obj\Debug\netcoreapp3.1\CS20.csproj.AssemblyReference.cache
+D:\_dev\C_Sharp\XXPro\CS20\obj\Debug\netcoreapp3.1\CS20.Form1.resources
+D:\_dev\C_Sharp\XXPro\CS20\obj\Debug\netcoreapp3.1\CS20.csproj.GenerateResource.cache
+D:\_dev\C_Sharp\XXPro\CS20\obj\Debug\netcoreapp3.1\CS20.GeneratedMSBuildEditorConfig.editorconfig
+D:\_dev\C_Sharp\XXPro\CS20\obj\Debug\netcoreapp3.1\CS20.AssemblyInfoInputs.cache
+D:\_dev\C_Sharp\XXPro\CS20\obj\Debug\netcoreapp3.1\CS20.AssemblyInfo.cs
+D:\_dev\C_Sharp\XXPro\CS20\obj\Debug\netcoreapp3.1\CS20.csproj.CoreCompileInputs.cache
+D:\_dev\C_Sharp\XXPro\CS20\obj\Debug\netcoreapp3.1\CS20.dll
+D:\_dev\C_Sharp\XXPro\CS20\obj\Debug\netcoreapp3.1\CS20.pdb
+D:\_dev\C_Sharp\XXPro\CS20\obj\Debug\netcoreapp3.1\CS20.genruntimeconfig.cache
