@@ -1,0 +1,10 @@
+D:\_dev\C_Sharp\XXPro\CS25\bin\Debug\CS25.exe.config
+D:\_dev\C_Sharp\XXPro\CS25\bin\Debug\CS25.exe
+D:\_dev\C_Sharp\XXPro\CS25\bin\Debug\CS25.pdb
+D:\_dev\C_Sharp\XXPro\CS25\obj\Debug\CS25.csproj.AssemblyReference.cache
+D:\_dev\C_Sharp\XXPro\CS25\obj\Debug\CS25.Form1.resources
+D:\_dev\C_Sharp\XXPro\CS25\obj\Debug\CS25.Properties.Resources.resources
+D:\_dev\C_Sharp\XXPro\CS25\obj\Debug\CS25.csproj.GenerateResource.cache
+D:\_dev\C_Sharp\XXPro\CS25\obj\Debug\CS25.csproj.CoreCompileInputs.cache
+D:\_dev\C_Sharp\XXPro\CS25\obj\Debug\CS25.exe
+D:\_dev\C_Sharp\XXPro\CS25\obj\Debug\CS25.pdb
