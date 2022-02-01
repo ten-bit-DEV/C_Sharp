@@ -1,0 +1,10 @@
+D:\_dev\C_Sharp\XXPro\CS34\bin\Debug\CS34.exe.config
+D:\_dev\C_Sharp\XXPro\CS34\bin\Debug\CS34.exe
+D:\_dev\C_Sharp\XXPro\CS34\bin\Debug\CS34.pdb
+D:\_dev\C_Sharp\XXPro\CS34\obj\Debug\CS34.csproj.AssemblyReference.cache
+D:\_dev\C_Sharp\XXPro\CS34\obj\Debug\CS34.Form1.resources
+D:\_dev\C_Sharp\XXPro\CS34\obj\Debug\CS34.Properties.Resources.resources
+D:\_dev\C_Sharp\XXPro\CS34\obj\Debug\CS34.csproj.GenerateResource.cache
+D:\_dev\C_Sharp\XXPro\CS34\obj\Debug\CS34.csproj.CoreCompileInputs.cache
+D:\_dev\C_Sharp\XXPro\CS34\obj\Debug\CS34.exe
+D:\_dev\C_Sharp\XXPro\CS34\obj\Debug\CS34.pdb
